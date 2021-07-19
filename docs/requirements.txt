@@ -1,0 +1,5 @@
+jupyter-book
+jupyter-sphinx
+matplotlib
+numpy
+pytest
