@@ -2,3 +2,4 @@ pytest
 numpy
 jupyter-sphinx
 jupyter-book
+matplotlib

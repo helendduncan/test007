@@ -13,6 +13,7 @@ parts:
     chapters:
     - file: guides/digital-twin
     - file: guides/agents
+    - file: guides/hello_world
 
   - caption: Air Traffic Control  
     chapters:
